@@ -2,9 +2,9 @@
 
 This Python script generates stepwise classification maps from two NetCDF files:
 
-# Cloud mask file (e.g., cma_extended)
+ Cloud mask file (e.g., cma_extended)
 
-# Land/physiography file (e.g., landuse)
+ Land/physiography file (e.g., landuse)
 
 The output consists of four PNG images showing:
 
